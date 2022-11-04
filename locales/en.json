@@ -1,0 +1,17 @@
+{
+  "hero": "Featuring smooth scrolling, in-view events, type scaling and accessibility features like configurable shortcuts and toasts. Built with nuxt 2, locomotive scroll, tachyons, gsap & splitting.",
+  "column_one": "We believe that form and function should work together to tell a story about the product or brand. We adhere to this principle in our work. While we understand that brands speak from the heart, we recognize that it is also important for them to be crafted with sleek simplicity.",
+  "column_two": "We focus on building custom web solutions that look and feel great, are easy to use, and work well across all devices. Our team is composed of designers, developers and project managers who use the latest technologies to build experiences that are beautiful, fast, and scalable.",
+  "column_three": "Creativity, curiosity and collaboration are the core principles for solving the most challenging problems. It is why we approach each project with a diverse, multi-faceted team who believes in the power of great design to inspire, delight and connect people.",
+  "get_in_touch": "Get in touch",
+  "modal_info": "We have built this starter with a focus on speed and efficiency. The smooth scrolling will make your users feel as if they are flying through space at warp speed. In-view events will allow them to interact with your website with ease and grace. Type scaling ensures that every user will have an optimal experience, regardless of their screen size. And keyboard accessibility means that even if they don't have a mouse, they will be able to navigate your site without any problem!",
+  "shortkey_one": "Open this panel",
+  "shortkey_two": "Close this panel",
+  "shortkey_three": "Open Twitter",
+  "shortkey_four": "Open Github",
+  "shortkey_five": "Send us an email",
+  "shortkey_six": "Open license",
+  "modal_action_one": "Click",
+  "modal_action_two": "to close.",
+  "toast_action_one": "Close"
+}

@@ -1,0 +1,17 @@
+{
+  "hero": "Con scorrimento fluido, eventi in-view, ridimensionamento dei font e caratteristiche di accessibilità come scorciatoie da tastiera e notifiche toast configurabili. Costruito con nuxt 2, locomotive scroll, tachyons, gsap e splitting.",
+  "column_one": "Crediamo che forma e funzione debbano lavorare insieme per raccontare una storia sul prodotto o sul marchio. Nel nostro lavoro ci atteniamo a questo principio. Pur comprendendo che i marchi parlano dal cuore, riconosciamo che è anche importante che siano realizzati con elegante semplicità.",
+  "column_two": "Ci concentriamo sulla costruzione di soluzioni web personalizzate che abbiano un aspetto e una sensazione fantastici, siano facili da usare e funzionino bene su tutti i dispositivi. Il nostro team è composto da designer, sviluppatori e project manager che utilizzano le tecnologie più recenti per costruire esperienze belle, veloci e scalabili.",
+  "column_three": "Creatività, curiosità e collaborazione sono i principi fondamentali per risolvere i problemi più impegnativi. È per questo che affrontiamo ogni progetto con un team eterogeneo e sfaccettato che crede nel potere del grande design di ispirare, deliziare e connettere le persone.",
+  "get_in_touch": "Contattaci",
+  "modal_info": "Abbiamo costruito questo starter con un'attenzione particolare alla velocità e all'efficienza. Lo scorrimento fluido farà sentire i vostri utenti come se stessero volando nello spazio a velocità di curvatura. Gli eventi in-view permetteranno loro di interagire con il vostro sito web con facilità e grazia. Il ridimensionamento dei caratteri assicura a ogni utente un'esperienza ottimale, indipendentemente dalle dimensioni dello schermo. E l'accessibilità della tastiera significa che anche se non hanno un mouse, saranno in grado di navigare nel vostro sito senza problemi!",
+  "shortkey_one": "Apri il pannello",
+  "shortkey_two": "Chiudi il pannello",
+  "shortkey_three": "Apri Twitter",
+  "shortkey_four": "Apri Github",
+  "shortkey_five": "Inviaci un email",
+  "shortkey_six": "Apri licenza",
+  "modal_action_one": "Clicca",
+  "modal_action_two": "per chiudere.",
+  "toast_action_one": "Chiudi"
+}
