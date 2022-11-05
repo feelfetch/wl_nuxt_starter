@@ -2,12 +2,12 @@ import Vue from 'vue'
 import LazyLoad from 'vanilla-lazyload'
 
 /*
-** Here we are creating a custom
-** Vue directive with lazyload `v-lazy`
-*/
+ ** Here we are creating a custom
+ ** Vue directive with lazyload `v-lazy`
+ */
 Vue.directive('lazy', {
   // When the bound element is inserted into the DOM...
-  bind (el) {
+  bind(el) {
     // Array/nodelist
     el.item = []
     el.item.push(el)
@@ -21,7 +21,7 @@ Vue.directive('lazy', {
       el.item
     )
   },
-  unbind (el) {
+  unbind(el) {
     el.instance.destroy()
   }
 })

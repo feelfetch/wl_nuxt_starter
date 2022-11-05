@@ -25,7 +25,7 @@
     </article>
     <article
       id="secondSection"
-      class="w-100 flex flex-wrap items-center justify-between bg-white relative z-2 pv4"
+      class="w-100 flex flex-wrap items-center justify-between bg-white relative z-2 pv4 br3"
       data-scroll-section
     >
       <div class="w-100 w-100-m w-33-ns tl black ph3">
