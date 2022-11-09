@@ -26,29 +26,41 @@ Clone this repo, cd into the folder and install all dependencies.
 
 ```bash
   yarn install
+  npm install
 ```
 
 Start the dev server.
 
 ```bash
   yarn dev
+  npm run dev
 ```
 
 Generate the build.
 
 ```bash
   yarn generate
+  npm run generate
 ```
 
 ## Linting
 
-```bash
+```javascript
   yarn lint:eslint
   yarn lint:stylelint
   yarn lint:fix:eslint
   yarn lint:fix:stylelint
   yarn lint:all
   yarn lint:fix:all
+
+  // npm
+
+  npm run lint:eslint
+  npm run lint:stylelint
+  npm run lint:fix:eslint
+  npm run lint:fix:stylelint
+  npm run lint:all
+  npm run lint:fix:all
 ```
 
 ## License
